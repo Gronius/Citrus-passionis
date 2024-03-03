@@ -1,0 +1,37 @@
+.btn {
+  background-color: rgba(121, 179, 40, 0.1);
+  padding: 10px 20px;
+  border-radius: 30px;
+  border: 2px solid rgba(174, 179, 40, 0.9);
+  box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+}
+.btn:hover {
+  opacity: 0.9;
+  cursor: pointer;
+  border: 2px solid #fff;
+}
+.btn a {
+  font-size: 28px;
+  font-weight: 500;
+  color: white;
+}
+.btn a:hover {
+  color: rgba(174, 179, 40, 0.9);
+  transition: ease-in-out 0.5s;
+}
+
+.contact-btn {
+  margin-right: 50px;
+}
+.button {
+  opacity: 0.9;
+  cursor: pointer;
+  border: 2px solid #ffc90e;
+  border: 1px solid rgba(174, 179, 40, 0.9);
+}
+.button a {
+  color: #505303e6;
+}
+.button a:hover {
+  color: rgba(174, 179, 40, 0.9);
+}

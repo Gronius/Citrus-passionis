@@ -1,0 +1,38 @@
+header {
+  height: 100px;
+  width: 100%;
+  background-color: var(--hero-background-color);
+  position: fixed;
+  z-index: 10;
+}
+nav .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.login {
+  height: 100px;
+  box-sizing: border-box;
+  align-items: center;
+  display: flex;
+  margin-left: 5%;
+}
+.login img {
+  height: 80%;
+  box-sizing: border-box;
+  margin: 0;
+}
+.header a {
+  color: var(--primary-white-color);
+  font-size: 36px;
+  font-weight: 400;
+}
+header a:hover {
+  color: var(--secondary-text-color);
+  transition: ease-in-out 0.5s;
+}
+header ul {
+  display: flex;
+  width: 60%;
+  justify-content: space-around;
+}

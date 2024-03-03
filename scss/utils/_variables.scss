@@ -1,0 +1,24 @@
+:root {
+  --hero-background-color: rgba(57, 102, 5, 0.9);
+  --secondary-background-color: #f6f8f1;
+  --light-background-color: #e5f1b8;
+  --dark-ackground-color: rgba(121, 179, 40, 0.1);
+  --gallery-background-color: #eafac6;
+  --primary-white-color: #fff;
+  --primary-text-color: #0c0d0c;
+  --dark-text-color: #052902;
+  --secondary-text-color: #032701e6;
+  --footer-text-color: #505303e6;
+  --primary-light-color: #faf4ea;
+  --secondary-text-color: #ffc90e;
+  --brand-grin-color: #aeb328e6;
+  --welcome-color: rgba(213, 218, 91, 0.902);
+  --secondary-color: rgba(205, 211, 33, 0.902);
+  --wrapper-border-color: #bff581;
+  --wrapper-color: #396605;
+  box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+}
+
+$bp-mobile: 480px;
+$bp-tablet: 768px;
+$bp-desktop: 1280px;
